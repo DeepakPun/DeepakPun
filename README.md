@@ -10,7 +10,7 @@ Focused on what happens *after* `git push`—building, containerizing, automatin
 
 ---
 
-### 🏗️ Featured Architecture: Multiverse Labs (`://deepakpun.com`)
+### 🏗️ Featured Architecture: Multiverse Labs (`https://labs.deepakpun.com`)
 
 A containerized microservices application deployed on a DigitalOcean Linux Droplet with automated GitHub Actions CI/CD, Vitest/Supertest integration checks, Nginx SSL/TLS reverse proxy, and full Prometheus + Grafana + Loki observability.
 
@@ -55,10 +55,10 @@ A containerized microservices application deployed on a DigitalOcean Linux Dropl
 
 | Project | Architecture & Highlights | Links |
 | :--- | :--- | :--- |
-| **Multiverse Labs** *(Capstone 01)* | Decoupled microservices (**Next.js**, **Express**, **MongoDB**) orchestrated with **Docker Compose**. Automated **GitHub Actions** CI/CD with **Vitest & Supertest** API checks, **Nginx** reverse proxy, and **Grafana / Prometheus / Loki** monitoring. | [Live App](https://://deepakpun.com) • [Repo](https://github.com/DeepakPun/://deepakpun.com) |
-| **Serverless Full-Stack** *(Capstone 02)* | Serverless **Express** API on **AWS Lambda** + **API Gateway (HTTP API)** with least-privilege **IAM**. Private **S3** React frontend served via **CloudFront (OAC)** & custom edge rewrite function, **AWS Amplify** CI/CD, and $0.00 FinOps teardown. | [Architecture Notes](https://://deepakpun.com/notes/en/aws-serverless-fullstack/) |
-| **Tech Notes** | Fast, minimal static Markdown knowledge base documenting cloud setups, Docker networking, and troubleshooting logs, built with **Astro** and deployed via **Vercel**. | [Live Site](https://://deepakpun.com) • [Repo](https://github.com/DeepakPun/://deepakpun.com) |
-| **Portfolio Hub** | Central `whoami`-style developer hub and interactive Next.js resume component with built-in PDF preview/download, routed via **AWS Route 53**. | [Live Site](https://deepakpun.com) • [Repo](https://github.com) |
+| **Multiverse Labs** *(Capstone 01)* | Decoupled microservices (**Next.js**, **Express**, **MongoDB**) orchestrated with **Docker Compose**. Automated **GitHub Actions** CI/CD with **Vitest & Supertest** API checks, **Nginx** reverse proxy, and **Grafana / Prometheus / Loki** monitoring. | [Live App](https://labs.deepakpun.com) • [Repo](https://github.com/DeepakPun/labs.deepakpun.com) |
+| **Serverless Full-Stack** *(Capstone 02)* | Serverless **Express** API on **AWS Lambda** + **API Gateway (HTTP API)** with least-privilege **IAM**. Private **S3** React frontend served via **CloudFront (OAC)** & custom edge rewrite function, **AWS Amplify** CI/CD, and $0.00 FinOps teardown. | [Architecture Notes](https://notes.deepakpun.com/notes/en/aws-serverless-fullstack/) |
+| **Tech Notes** | Fast, minimal static Markdown knowledge base documenting cloud setups, Docker networking, and troubleshooting logs, built with **Astro** and deployed via **Vercel**. | [Live Site]([https://notes.deepakpun.com](https://notes.deepakpun.com/) • [Repo](https://github.com/DeepakPun/noted.deepakpun.com) |
+| **Portfolio Hub** | Central `whoami`-style developer hub and interactive Next.js resume component with built-in PDF preview/download, routed via **AWS Route 53**. | [Live Site](https://deepakpun.com) • [Repo](https://github.com/DeepakPun/deepakpun.com) |
 
 ---
 
