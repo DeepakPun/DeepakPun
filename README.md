@@ -4,8 +4,8 @@
 Focused on what happens *after* `git push`—building, containerizing, automating, and monitoring resilient cloud infrastructure.
 
 🌐 **Portfolio & Interactive Resume:** [deepakpun.com](https://deepakpun.com) ([View Resume](https://deepakpun.com/resume))  
-🚀 **Live Microservices & Observability Lab:** [labs.deepakpun.com](labs.deepakpun.com)  
-📝 **Technical Notes & Homelab Logs:** [notes.deepakpun.com](notes.deepakpun.com)  
+🚀 **Live Microservices & Observability Lab:** [labs.deepakpun.com](https://labs.deepakpun.com)  
+📝 **Technical Notes & Homelab Logs:** [notes.deepakpun.com](https://notes.deepakpun.com)  
 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mrpun)
 
 ---
