@@ -3,10 +3,10 @@
 **Full-Stack Developer & Cloud / DevOps Engineer** based in Maryland, USA.  
 Focused on what happens *after* `git push`—building, containerizing, automating, and monitoring resilient cloud infrastructure.
 
-🌐 **Portfolio & Interactive Resume:** [deepakpun.com](https://deepakpun.com) ([View Resume](https://deepakpun.com))  
-🚀 **Live Microservices & Observability Lab:** [://deepakpun.com](https://://deepakpun.com)  
-📝 **Technical Notes & Homelab Logs:** [://deepakpun.com](https://://deepakpun.com)  
-💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+🌐 **Portfolio & Interactive Resume:** [deepakpun.com](https://deepakpun.com) ([View Resume](https://deepakpun.com/resume))  
+🚀 **Live Microservices & Observability Lab:** [labs.deepakpun.com](labs.deepakpun.com)  
+📝 **Technical Notes & Homelab Logs:** [notes.deepakpun.com](notes.deepakpun.com)  
+💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mrpun)
 
 ---
 
